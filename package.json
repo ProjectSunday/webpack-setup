@@ -1,0 +1,20 @@
+{
+  "name": "webpack-setup",
+  "version": "1.0.0",
+  "description": "Challenge - Webpack Setup",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack && node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ProjectSunday/webpack-setup.git"
+  },
+  "author": "Project Sunday",
+  "license": "ISC",
+  "homepage": "https://github.com/ProjectSunday/webpack-setup#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {}
+}
